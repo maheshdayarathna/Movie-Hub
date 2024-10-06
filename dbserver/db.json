@@ -1,0 +1,205 @@
+{
+  "movies": [
+    {
+      "id": "1001",
+      "title": "Spider-Man: No Way Home",
+      "year": "2021",
+      "runtime": "148 min",
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "director": "Jon Watts",
+      "actors": [
+        "Tom Holland",
+        "Zenda",
+        "Tobey Maguire",
+        "Andrew Garfield"
+      ],
+      "rating": "8.3",
+      "posterImageUrl": "images/1.jpg"
+    },
+    {
+      "id": "1002",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": "2018",
+      "runtime": "108 min",
+      "genre": [
+        "Action",
+        "Family"
+      ],
+      "director": [
+        "Rodney Rothman",
+        "Peter Ramsey",
+        "Bob Persichetti"
+      ],
+      "actors": [
+        "Shameik Moore",
+        "Jake Johnson",
+        "Oscar Isaac",
+        "Stan Lee"
+      ],
+      "rating": "8.4",
+      "posterImageUrl": "images/2.jpg"
+    },
+    {
+      "id": "1003",
+      "title": "Hacksaw Ridge",
+      "Year": "2016",
+      "Runtime": "139 min",
+      "genre": [
+        "War",
+        "Drama"
+      ],
+      "director": "Mel Gibson",
+      "actors": [
+        "Andrew Garfield",
+        "Luke Bracey",
+        "Vince Vaughn",
+        "Teresa Palmer"
+      ],
+      "rating": "8.1",
+      "posterImageUrl": "images/3.jpg"
+    },
+    {
+      "id": "1004",
+      "title": "The Shawshank Redemption",
+      "year": "1994",
+      "runtime": "142 min",
+      "genre": [
+        "Drama",
+        "Crime"
+      ],
+      "director": "Frank Darabont",
+      "actors": [
+        "Morgan Freeman",
+        "Tim Robbins",
+        "Clancy Brown",
+        "Bob Gunton"
+      ],
+      "rating": "9.3",
+      "posterImageUrl": "images/4.jpg"
+    },
+    {
+      "id": "1005",
+      "title": "Avengers: Endgame",
+      "year": "2019",
+      "runtime": "182 min",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "director": [
+        " Anthony Russo",
+        "Joe Russo"
+      ],
+      "actors": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Scarlett Johansson",
+        "Chris Hemsworth"
+      ],
+      "rating": "8.4",
+      "posterImageUrl": "images/5.jpg"
+    },
+    {
+      "id": "1006",
+      "title": "Avengers: Infinity War",
+      "year": "2018",
+      "runtime": "149 min",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "director": [
+        "Anthony Russo",
+        "Joe Russo"
+      ],
+      "actors": [
+        "Robert Downey Jr.",
+        "Josh Brolin",
+        "Scarlett Johansson",
+        "Chris Hemsworth"
+      ],
+      "rating": "8.4",
+      "posterImageUrl": "images/6.jpg"
+    },
+    {
+      "id": "1007",
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "year": "2021",
+      "runtime": "132 min",
+      "genre": [
+        "Action",
+        "Fantasy"
+      ],
+      "director": "Destin Daniel Cretton",
+      "actors": [
+        "Awkwafina",
+        "Simu Liu",
+        "Tony Leung Chiu-wai",
+        "Stephanie Hsu"
+      ],
+      "rating": "7.4",
+      "posterImageUrl": "images/7.jpg"
+    },
+    {
+      "id": "1008",
+      "title": "Minions: The Rise of Gru",
+      "year": "2022",
+      "runtime": "90 min",
+      "genre": [
+        "Comedy",
+        "Adventure"
+      ],
+      "director": "Kyle Balda",
+      "actors": [
+        "Steve Carell",
+        "Julie Andrews",
+        "Taraji P. Henson",
+        "Jean-Claude Van Damme"
+      ],
+      "rating": "6.6",
+      "posterImageUrl": "images/8.jpg"
+    },
+    {
+      "id": "1009",
+      "title": "Batman v Superman: Dawn of Justice",
+      "year": "2016",
+      "runtime": "131 min",
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "director": "Zack Snyder",
+      "actors": [
+        "Ben Affleck",
+        "Henry Cavill",
+        "Jesse Eisenberg",
+        "Gal Gadot"
+      ],
+      "rating": "6.4",
+      "posterImageUrl": "images/9.jpg"
+    },
+    {
+      "id": "1010",
+      "title": "Zack Snyder's Justice League",
+      "year": "2021",
+      "runtime": "240 min",
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "director": "Zack Snyder",
+      "actors": [
+        "Henry Cavill",
+        "Ezra Millerl",
+        "Amber Heard",
+        "Jared Leto"
+      ],
+      "rating": "8",
+      "posterImageUrl": "images/10.jpg"
+    }
+  ],
+  "favourites": []
+}
