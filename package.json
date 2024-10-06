@@ -15,7 +15,7 @@
     "music",
     "application"
   ],
-  "author": "Ravindu Laksahan",
+  "author": "Mahesh Dayarathna",
   "license": "ISC",
   "dependencies": {
     "http-server": "^0.12.1",
