@@ -183,6 +183,25 @@
     },
     {
       "id": "1010",
+      "title": "Scooby-Doo on Zombie Island",
+      "year": "1998",
+      "runtime": "77 min",
+      "genre": [
+        "Animation",
+         "Comedy", "Family",
+          "Mystery",
+           "Adventure",
+            "Fantasy"
+      ],
+      "director": " Hanna-Barbera Productions, Warner Bros. Animation",
+      "actors": [
+        " Scott Innes", "Billy West", "Mary Kay Bergman", "Frank Welker", "B. J. Ward"
+      ],
+      "rating": "7.7",
+      "posterImageUrl": "images/11.jpg"
+    },
+    {
+      "id": "1011",
       "title": "Zack Snyder's Justice League",
       "year": "2021",
       "runtime": "240 min",
@@ -199,6 +218,49 @@
       ],
       "rating": "8",
       "posterImageUrl": "images/10.jpg"
+    },
+    {
+      "id": "1012",
+      "title": "Deadpool & Wolverine",
+      "year": "2024",
+      "runtime": "127 min",
+      "genre": [
+        "Science Fiction",
+         "Action", 
+         "Comedy"
+      ],
+      "director": "Marvel Studios, Kevin Feige Productions",
+      "actors": [
+        "Matthew Macfadyen",
+         "Ray Park", 
+         "Dania Ramirez",
+          "Chris Hemsworth",
+           "Brianna Hildebrand"
+      ],
+      "rating": "7.9",
+      "posterImageUrl": "images/12.jpg"
+    },
+    {
+      "id": "1013",
+      "title": "WolfS",
+      "year": "2024",
+      "runtime": "108 min",
+      "genre": [
+        "Action", 
+        "Crime", 
+        "Comedy", 
+        "Thriller"
+      ],
+      "director": " Smoke House Pictures, Plan B Entertainment, Apple Studios",
+      "actors": [
+        " Amy Ryan", 
+        "Zlatko Burić", 
+        "Poorna Jagannathan", 
+        "George Clooney",
+         "Austin Abrams"
+      ],
+      "rating": "6.5",
+      "posterImageUrl": "images/13.jpg"
     }
   ],
   "favourites": []
